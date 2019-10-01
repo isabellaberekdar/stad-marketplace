@@ -2,7 +2,7 @@ from django.db import models
 from datetime import date
 from PIL import Image
 from django.urls import reverse
-from django.contrib.auth.models import BaseUserManager, AbstractBaseUser
+from django.contrib.auth.models import User, BaseUserManager, AbstractBaseUser
 import uuid # Required for unique id
 
 from django.core.validators import MaxValueValidator, MinValueValidator
