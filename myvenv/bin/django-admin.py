@@ -1,4 +1,4 @@
-#!/Users/nancyyoon/Desktop/stad-marketplace/myvenv/bin/python3
+#!/Users/nancyyoon/Desktop/merchantment/myvenv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
